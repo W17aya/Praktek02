@@ -7,6 +7,13 @@ public class Triangle {
         panjang=5;
         tinggi=2;
     }
+
+    public Triangle(double panjang, double tinggi) {
+        this.panjang = panjang;
+        this.tinggi = tinggi;
+    }
+    
+    
             
    void cetakinfo(){
        System.out.println("=====================");

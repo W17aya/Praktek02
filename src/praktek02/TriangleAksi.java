@@ -9,5 +9,13 @@ public class TriangleAksi {
         t1.cetakinfo();
         System.out.println("Keliling triangle ="+t1.hitungKeliling());
         t1.cetakKeliling();
+        
+        
+        Triangle t2 = new Triangle();
+        t2.cetakinfo();
+        
+        Triangle t3 = new Triangle(30,50);
+        t3.cetakinfo();
+        
         }
 }
