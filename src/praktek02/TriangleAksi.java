@@ -5,5 +5,7 @@ public class TriangleAksi {
         Triangle t1 = new Triangle();
         t1.panjang  = 20;
         t1.tinggi   = 10;
+        
+        t1.cetakinfo();
         }
 }
