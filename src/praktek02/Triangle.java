@@ -15,4 +15,8 @@ public class Triangle {
        return keliling;
        
    }
+   
+   void cetakKeliling(){
+       System.out.println("Kelilingnya adalah:  "+hitungKeliling());
+   }
 }
