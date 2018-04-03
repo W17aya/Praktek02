@@ -9,4 +9,10 @@ public class Triangle {
         System.out.println("Tinggi  : "+tinggi);
         System.out.println("=====================");
     }
+   double hitungKeliling(){
+       double keliling;
+       keliling=panjang*panjang*panjang;
+       return keliling;
+       
+   }
 }

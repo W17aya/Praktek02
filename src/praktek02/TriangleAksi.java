@@ -7,5 +7,6 @@ public class TriangleAksi {
         t1.tinggi   = 10;
         
         t1.cetakinfo();
+        System.out.println("Keliling triangle ="+t1.hitungKeliling());
         }
 }
