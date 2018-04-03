@@ -2,6 +2,11 @@ package praktek02;
 public class Triangle {
             double panjang;
             double tinggi;
+
+    public Triangle() {
+        panjang=5;
+        tinggi=2;
+    }
             
    void cetakinfo(){
        System.out.println("=====================");
