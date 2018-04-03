@@ -17,5 +17,8 @@ public class TriangleAksi {
         Triangle t3 = new Triangle(30,50);
         t3.cetakinfo();
         
+        Triangle t4 = new Triangle();
+        double panjang;
+                double tinggi;
         }
 }
